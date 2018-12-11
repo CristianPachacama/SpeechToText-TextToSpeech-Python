@@ -3,7 +3,7 @@
 ##### [1] On Anaconda Shell - pip install SpeechRecognition
 ##### [2] On Anaconda Shell - pip install PyAudio
 
-![image](https://user-images.githubusercontent.com/689226/49734031-0cd8af80-fca9-11e8-99c9-7f1317b82c3c.png)
+![image](https://user-images.githubusercontent.com/689226/49779210-bb730380-fd2e-11e8-9629-d1a82227dd1f.png)
 
 ##### Now after you run the above code snippet, whatever you say on the microphone, gets converted into text :)
 
