@@ -1,0 +1,22 @@
+## To Convert Speech into Text. Follow the below steps:
+
+##### [1] On Anaconda Shell - pip install SpeechRecognition
+##### [2] On Anaconda Shell - pip install PyAudio
+
+![image](https://user-images.githubusercontent.com/689226/49734031-0cd8af80-fca9-11e8-99c9-7f1317b82c3c.png)
+
+##### Now after you run the above code snippet, whatever you say on the microphone, gets converted into text :)
+
+##### POINT TO NOTE:
+
+##### The above code snippet works with the default language is English. If we speak in any other language example Hindi, the text is interpreted in the form of English, like as below-
+
+![image](https://user-images.githubusercontent.com/689226/49779130-646d2e80-fd2e-11e8-8a14-062695fe80cd.png)
+
+##### In case you want to display text in the language spoken, we have to introduce a very minor change —
+
+![image](https://user-images.githubusercontent.com/689226/49779155-7f3fa300-fd2e-11e8-9f7f-4624d4c45a5f.png)
+
+##### Now, if we speak anything in Hindi, the text is displayed in the same language.
+
+![image](https://user-images.githubusercontent.com/689226/49779182-9a121780-fd2e-11e8-84f1-d828c34794ba.png)
