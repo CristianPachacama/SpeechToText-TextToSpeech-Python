@@ -20,3 +20,15 @@
 ##### Now, if we speak anything in Hindi, the text is displayed in the same language.
 
 ![image](https://user-images.githubusercontent.com/689226/49779182-9a121780-fd2e-11e8-84f1-d828c34794ba.png)
+
+<hr>
+
+## To Convert Speech [From File] into Text. Follow the below steps:
+
+##### [1] We should have an audio file (.wav file).  In this audio file, I have recorded a sentence.
+
+![image](https://user-images.githubusercontent.com/689226/49779282-3805e200-fd2f-11e8-8764-bd6c16b2a158.png)
+
+##### [2] The below code takes the above file(speech)as input and displays the text as output.
+
+![image](https://user-images.githubusercontent.com/689226/49779299-523fc000-fd2f-11e8-97ab-63b7191812b5.png)
