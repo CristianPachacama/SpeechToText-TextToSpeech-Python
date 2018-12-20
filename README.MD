@@ -10,22 +10,20 @@ This repository contains self-contained Speech-Text and Text-Speech examples.
    ###### This example illustrates conversion of Human Speech into Text using Google API. [[Source Code]](https://github.com/rahulvaish/SpeechToText_TextToSpeech-Python/tree/SpeechToText)
    * On Anaconda Shell - pip install SpeechRecognition
    * On Anaconda Shell - pip install PyAudio
-   ###### To Convert Speaking Speech into Text:
+   * **To Convert Spoken Speech into Text:**
    * Code the below Snippet-
 ![image](https://user-images.githubusercontent.com/689226/50304396-d6bfda80-04b5-11e9-93c6-bc3bcd483784.png)
-   * Execute the above program. Now, whatever you say on the microphone, gets converted into text :)   
-   * **POINT TO NOTE:** The above code snippet works with the default language is English. If we speak in any other language example Hindi, the text is interpreted in the form of English, like as below-
+   * On execution, your speech gets converted into text.   
+   * **POINT TO NOTE:** The default language is English. If we speak in any other language example Hindi, the text is interpreted in the form of English, like as below-
  ![image](https://user-images.githubusercontent.com/689226/50304396-d6bfda80-04b5-11e9-93c6-bc3bcd483784.png)
-   * In case you want to display text in the language spoken, we have to introduce a very minor change —
+   * To display text in the language spoken-
   ![image](https://user-images.githubusercontent.com/689226/50304523-30280980-04b6-11e9-985e-a7bd629e46dd.png)
-   * Now, if we speak anything in Hindi, the text is displayed in the same language.
- ![image](https://user-images.githubusercontent.com/689226/50304603-69f91000-04b6-11e9-9cc7-802cfc36f1de.png)
- 
-   ###### To Convert Speech [From File] into Text:
-
-   * We should have an audio file (.wav file).  In this audio file, I have recorded a sentence.
+   *  On execution, your speech gets converted into desired text.
+ ![image](https://user-images.githubusercontent.com/689226/50304603-69f91000-04b6-11e9-9cc7-802cfc36f1de.png) 
+   * **To Convert Speech [From File] into Text:**
+   * Record a sentense in an audio file (.wav file).
   ![image](https://user-images.githubusercontent.com/689226/50305160-0ec81d00-04b8-11e9-8861-ccb5caaa92b9.png)
-   * The below code takes the above file(speech)as input and displays the text as output.
+   * On execution, the recorded speech gets converted into text. 
 ![image](https://user-images.githubusercontent.com/689226/50305253-41721580-04b8-11e9-8b7a-e06afc11fe3b.png)
 
 
@@ -33,5 +31,6 @@ This repository contains self-contained Speech-Text and Text-Speech examples.
 
 - ###### [Text To Speech](https://github.com/rahulvaish/SpeechToText_TextToSpeech-Python/tree/TextToSpeech) 
    ###### This example illustrates conversion of Text To Speech using Google API. [[Source Code]](https://github.com/rahulvaish/SpeechToText_TextToSpeech-Python/tree/TextToSpeech)
-   * Locad
-
+   * Code the below Snippet-
+   * ![image](https://user-images.githubusercontent.com/689226/50305693-a4b07780-04b9-11e9-99cc-15d8c0593f3c.png)
+   * On execution, the specified text gets converted into an audio file.
