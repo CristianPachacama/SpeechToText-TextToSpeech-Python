@@ -1,4 +1,4 @@
-## To Convert Speech into Text. Follow the below steps:
+### To Convert Speech into Text. Follow the below steps:
    * On Anaconda Shell - pip install SpeechRecognition
    * On Anaconda Shell - pip install PyAudio
    * **To Convert Spoken Speech into Text:**
