@@ -1,10 +1,6 @@
 ## To Convert Speech into Text. Follow the below steps:
+* Code the below Snippet-
+   ![image](https://user-images.githubusercontent.com/689226/50305693-a4b07780-04b9-11e9-99cc-15d8c0593f3c.png)
+* On execution, the specified text gets converted into an audio file.   
+![image](https://user-images.githubusercontent.com/689226/50305812-07097800-04ba-11e9-9783-210189741411.png)
 
-##### [1] On Anaconda Shell - pip install gtts 
-##### [2] On Jupyter Notebook, write the below code. The mentioned code demonstrates how a given text “Good morning” is converted into English automated voice. Also if we have a text which is not in English, but in any other language (let say in Hindi), gtts can also convert it well !! :)
-
-![image](https://user-images.githubusercontent.com/689226/49779373-b2cefd00-fd2f-11e8-89c9-a995cf3903a3.png)
-
-##### Now check the generated files in the desired location:
-
-![image](https://user-images.githubusercontent.com/689226/49779397-c8442700-fd2f-11e8-8c1b-4d3188703295.png)
