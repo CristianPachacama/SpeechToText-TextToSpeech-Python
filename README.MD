@@ -15,7 +15,7 @@ This repository contains self-contained Speech-Text and Text-Speech examples.
 ![image](https://user-images.githubusercontent.com/689226/50304396-d6bfda80-04b5-11e9-93c6-bc3bcd483784.png)
    * On execution, your speech gets converted into text.   
    * **POINT TO NOTE:** The default language is English. If we speak in any other language example Hindi, the text is interpreted in the form of English, like as below-
- ![image](https://user-images.githubusercontent.com/689226/50304396-d6bfda80-04b5-11e9-93c6-bc3bcd483784.png)
+ ![image](https://user-images.githubusercontent.com/689226/50305997-69627880-04ba-11e9-9039-788e6567cc28.png)
    * To display text in the language spoken-
   ![image](https://user-images.githubusercontent.com/689226/50304523-30280980-04b6-11e9-985e-a7bd629e46dd.png)
    *  On execution, your speech gets converted into desired text.
@@ -24,7 +24,7 @@ This repository contains self-contained Speech-Text and Text-Speech examples.
    * Record a sentense in an audio file (.wav file).
   ![image](https://user-images.githubusercontent.com/689226/50305160-0ec81d00-04b8-11e9-8861-ccb5caaa92b9.png)
    * On execution, the recorded speech gets converted into text. 
-![image](https://user-images.githubusercontent.com/689226/50305253-41721580-04b8-11e9-8b7a-e06afc11fe3b.png)
+![image](https://user-images.githubusercontent.com/689226/50306076-9b73da80-04ba-11e9-810b-1853452f2be9.png)
 
 
 <hr>
