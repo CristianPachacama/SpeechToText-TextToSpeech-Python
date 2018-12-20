@@ -1,4 +1,4 @@
-This repository contains self-contained Speech-Text and Text-Speech examples.
+This repository contains self-contained Speech to Text and Text to Speech conversion examples.
 
 ### Table of Contents
   - <a href='#speech-to-text'>Speech To Text</a> 
